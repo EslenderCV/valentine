@@ -37,13 +37,13 @@ const Envelope = () =>{
         <div className="imgs">
             <div className="imgscard1">
                 <div className="cardImg I1"><img src="/valentine/assets/a1.jpeg"/></div>
-                <div className="cardImg I2"><img src="./a2.JPEG"/></div>
-                <div className="cardImg I3"><img src="../src/a1.JPEG"/></div>
-                <div className="cardImg I4"><img src="a4.JPEG"/></div>
+                <div className="cardImg I2"><img src="/valentine/assets/a2.jpeg"/></div>
+                <div className="cardImg I3"><img src="/valentine/assets/a3.jpeg"/></div>
+                <div className="cardImg I4"><img src="/valentine/assets/a4.jpeg"/></div>
             </div>
             <div className="imgscard2">
-                <div className="cardImg I5"><img src="a5.JPEG"/></div>
-                <div className="cardImg I6"><img src="a6.JPEG"/></div>
+                <div className="cardImg I5"><img src="/valentine/assets/a5.jpeg"/></div>
+                <div className="cardImg I6"><img src="/valentine/assets/a6.jpeg"/></div>
             </div>
         </div>
     </>;
