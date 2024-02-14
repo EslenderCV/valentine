@@ -36,7 +36,7 @@ const Envelope = () =>{
         </div>
         <div className="imgs">
             <div className="imgscard1">
-                <div className="cardImg I1"><img src="sr/a1.jpeg"/></div>
+                <div className="cardImg I1"><img src="/valentine/assets/a1.jpeg"/></div>
                 <div className="cardImg I2"><img src="./a2.JPEG"/></div>
                 <div className="cardImg I3"><img src="../src/a1.JPEG"/></div>
                 <div className="cardImg I4"><img src="a4.JPEG"/></div>
